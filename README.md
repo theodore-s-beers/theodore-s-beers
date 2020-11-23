@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **theodore-s-beers/theodore-s-beers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a Persian and Arabic philologist, currently working as a postdoc in the [AnonymClassic project](https://www.geschkult.fu-berlin.de/en/e/kalila-wa-dimna/) at Freie Universität Berlin. On GitHub, I like to build simple little web apps to facilitate my research and that of my colleagues.
+
+My homepage is at <https://www.theobeers.com/>.
