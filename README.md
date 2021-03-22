@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Persian and Arabic philologist, currently working as a postdoc in the [AnonymClassic project](https://www.geschkult.fu-berlin.de/en/e/kalila-wa-dimna/) at Freie Universität Berlin. On GitHub, I like to build simple web apps to facilitate my research and that of my colleagues.
+I’m a Persian and Arabic philologist, currently working as a postdoc in the [AnonymClassic project](https://www.geschkult.fu-berlin.de/en/e/kalila-wa-dimna/) at the Freie Universität Berlin. On GitHub, I like to build simple web apps to facilitate my research and that of my colleagues.
 
 My homepage is at <https://www.theobeers.com/>.
