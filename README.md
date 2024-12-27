@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I’m a Persian and Arabic philologist and “digital humanist,” currently working as a research software engineer&nbsp;/ associate researcher in the Colleges of [Engineering](https://drexel.edu/engineering/academics/departments/mechanical-engineering/) and [Computing & Informatics](https://mrc.cci.drexel.edu/) at Drexel University in Philadelphia. Prior to this, I spent several years as a postdoc in the [Seminar for Semitic and Arabic Studies](https://www.geschkult.fu-berlin.de/en/e/semiarab/) at the Freie Universität Berlin.
 
-Here on GitHub, I like to build little web apps and libraries to facilitate my research and that of my colleagues.
+Here on GitHub, I like to build web apps, CLI tools, and software libraries to facilitate my research and that of my colleagues.
 
 My homepage is at [theobeers.com](https://www.theobeers.com/).
