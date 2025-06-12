@@ -19,7 +19,7 @@ I’m a **research software engineer** with a particular love for the digital hu
 
 My most recent full-time role (2024–25) was in the Colleges of Engineering and [Computing & Informatics](https://mrc.cci.drexel.edu/) at Drexel University in Philadelphia, where I worked as the primary software engineer on an NSF-funded project that involved (*inter alia*) setting up and administering a cluster of GPU servers to be used by researchers for training machine learning models. Many of my responsibilities fell under the umbrella of what might be called **Research DevOps/MLOps**.
 
-I’m still based in the Philadelphia area, with no plans to move, and I’m **looking for my next professional challenge**, be it on a full-time, part-time, or contract basis. I would be especially interested in consulting/contract work for academic research projects—though I understand (as we all must) the difficulties of the current environment for research funding. Try `curl`ing my résumé API:
+I’m still based in the Philadelphia area, with no plans to move, and I’m **looking for my next professional challenge**, be it on a full-time, part-time, or contract basis. I would be especially interested in consulting/contract work for academic research projects—though I understand (as we all must) the difficulties of the current research funding environment. Try `curl`ing my résumé API:
 
 ```sh
 curl -s https://resume.theobeers.com/ | jq '.name, .tagline, .links'
