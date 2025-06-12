@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a **research software engineer** with a specialization in the digital humanities, and a classically trained Persian and Arabic philologist (PhD UChicago, 2020) with an active [research agenda](https://scholar.google.com/citations?user=dqd1ahUAAAAJ).
+I’m a **research software engineer** with a particular love for the digital humanities, and a classically trained Persian and Arabic philologist (PhD UChicago, 2020) with an active [research agenda](https://scholar.google.com/citations?user=dqd1ahUAAAAJ).
 
-My most recent full-time role (2024–25) was in the Colleges of Engineering and [Computing & Informatics](https://mrc.cci.drexel.edu/) at Drexel University in Philadelphia, where I worked as the primary software engineer in an NSF-funded project that involved (*inter alia*) setting up and administering a cluster of GPU servers to be used by researchers for training machine learning models.
+My most recent full-time role (2024–25) was in the Colleges of Engineering and [Computing & Informatics](https://mrc.cci.drexel.edu/) at Drexel University in Philadelphia, where I worked as the primary software engineer on an NSF-funded project that involved (*inter alia*) setting up and administering a cluster of GPU servers to be used by researchers for training machine learning models. Many of my responsibilities fell under the umbrella of what might be called **Research DevOps/MLOps**.
 
 I’m still based in the Philadelphia area, with no plans to move, and I’m **looking for my next professional challenge**, be it on a full-time, part-time, or contract basis. I would be especially interested in consulting/contract work for academic research projects—though I understand (as we all must) the difficulties of the current environment for research funding. Try `curl`ing my résumé API:
 
