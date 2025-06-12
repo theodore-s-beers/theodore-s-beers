@@ -22,7 +22,7 @@ My most recent full-time role (2024–25) was in the Colleges of Engineering and
 I’m still based in the Philadelphia area, with no plans to move, and I’m **looking for my next professional challenge**, be it on a full-time, part-time, or contract basis. I would be especially interested in consulting/contract work for academic research projects—though I understand (as we all must) the difficulties of the current research funding environment. Try `curl`ing my résumé API:
 
 ```sh
-curl -s https://resume.theobeers.com/ | jq '.name, .tagline, .links'
+curl -s https://resume.theobeers.com/ | jq '{name, tagline, links}'
 ```
 
 Prior to my engagement at Drexel, I spent several years as a postdoc in the [Seminar for Semitic and Arabic Studies](https://www.geschkult.fu-berlin.de/en/e/semiarab/) at the Freie Universität Berlin. I still collaborate with that group, maintaining an affiliation as a non-resident fellow, and I try to visit as often as I can. *Deutschland, besonders Berlin, wird für mich auf ewig ein Herzensort bleiben.*
