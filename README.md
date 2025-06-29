@@ -29,4 +29,4 @@ Prior to my engagement at Drexel, I spent several years as a postdoc in the [Sem
 
 Anyway, regardless of where I am, I’m an avid programmer in several languages (Rust, Python, TypeScript, Go…), and on GitHub I like to build web apps, CLI tools, and software libraries to facilitate my research and that of my colleagues around the world.
 
-My homepage, which needs updating, is at [theobeers.com](https://www.theobeers.com/). I can be reached by email using any valid prefix at that domain.
+My homepage is at [theobeers.com](https://www.theobeers.com/). I can be reached by email using any valid prefix at that domain.
